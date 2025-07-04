@@ -1,0 +1,37 @@
+{
+  "teacher_topic": "家鄉的傳統信仰與老街",
+  "teacher_storyline": [
+    "清晨，你和同學來到臺中大甲區……",
+    "導師指著鎮瀾宮的神轎……",
+    "... (略)"
+  ],
+  "teacher_materials": [
+    "媽祖信仰是臺灣最普遍的民間信仰之一……",
+    "... (略)"
+  ],
+  "teacher_keywords": [
+    "媽祖","天上聖母","繞境","土地公","祖靈",
+    "老街","閩南式建築","T表","鹿港","大甲"
+  ],
+  "teacher_images": [
+    "https://example.com/dajia_pilgrimage.jpg",
+    "https://example.com/lukang_arch.jpg"
+  ],
+  "teacher_videos": [
+    "https://example.com/mazu_story.mp4"
+  ],
+  "question_bank": [
+    {
+      "type": "single_choice",
+      "question": "下列何者最能顯示老街建築特色？",
+      "options": ["玻璃帷幕大樓","閩南式紅磚騎樓","鋼骨摩天大樓","現代商場"],
+      "answer": 1,
+      "explanation": "老街保留閩南式紅磚騎樓……"
+    },
+    {
+      "type": "true_false",
+      "question": "媽祖又稱為天上聖母 (T/F)",
+      "answer": "T"
+    }
+  ]
+}
